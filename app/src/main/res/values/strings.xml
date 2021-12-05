@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Ecommerce</string>
+    <string name="error">Message</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="hyper_link">Forgot Password ?  Registration</string>
+    <string name="ecommerce">N-vest Ecommerce</string>
+    <string name="email_address">Email Address</string>
+    <string name="dashboard_content_tag">dashboard_content_tag</string>
+    <string name="dashboard_list_tag">dashboard_list_tag</string>
+    <string name="register">Register</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="or_register">Or Register</string>
+    <string name="name">Name</string>
+    <string name="no_product_found">No Product Found</string>
+    <string name="dashboard">Dashboard</string>
+
+</resources>
