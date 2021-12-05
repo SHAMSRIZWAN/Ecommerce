@@ -11,15 +11,15 @@ alt="alt text" width="300" height="600"> &nbsp;&nbsp;&nbsp;&nbsp;    <img src="h
 
 # Documentation
 
-Used
-1)kotlin
-2)jetpack Compose
-3)MVVM
-4)Io Mockk
-5)Unit Testing
-6)Instrument Testing(Compose Testing)
-7)Dry Code
-8)Tests written 
+Used <br>
+1)kotlin <br>
+2)jetpack Compose <br>
+3)MVVM <br>
+4)Io Mockk <br>
+5)Unit Testing <br>
+6)Instrument Testing(Compose Testing) <br>
+7)Dry Code <br>
+8)Tests written  <br>
 
 
 
